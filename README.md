@@ -1,2 +1,1 @@
-# Semaphores
 # Simple-Shell
